@@ -35,10 +35,13 @@
 }
 
 .banner {
+  /*
   background-color: #bccddc;
   font-family: "Tangerine", serif;
   font-size: 96px;
+  */
   text-align:center;
+  border-bottom: 1px solid #bccddc;
 }
 
 .banner a:link, a:visited, a:hover, a:active {
